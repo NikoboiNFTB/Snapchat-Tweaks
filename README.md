@@ -4,7 +4,7 @@ Tweaks for Snapchat Web.
 
 ## Extensions
 
-### Web on Firefox
+### Snapchat Web on FF
 
 Lets you use Snapchat for Web on Firefox. Simple and clean. Here's literally all the code that runs:
 
@@ -48,3 +48,15 @@ Unlike [Snapchat web by LN](https://addons.mozilla.org/firefox/addon/snapchat-we
 
 4 directories, 9 files
 ```
+
+## Contributing
+
+Feel free to fork this repository and submit issues or pull requests if you have any suggestions or improvements. If you encounter any bugs or have feature requests, please open an issue.
+
+## Credits
+
+Created by **[Nikoboi](https://github.com/NikoboiNFTB/)**
+
+## License
+
+This project is licenced under the GNU General Public License V3. See [LICENSE](LICENSE) for details.
