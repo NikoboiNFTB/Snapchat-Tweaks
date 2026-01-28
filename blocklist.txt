@@ -1,0 +1,10 @@
+
+! --- Snapchat for Web content blockers by Nikoboi ---
+
+! "Enable notifications"
+www.snapchat.com##.wHvEy
+
+! Obnoxious background
+www.snapchat.com##._HpJ5
+
+! --- Snapchat for Web content blockers by Nikoboi ---
