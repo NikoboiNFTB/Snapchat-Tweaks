@@ -6,7 +6,11 @@ Tweaks for Snapchat Web.
 
 ### Snapchat Web on FF
 
-Lets you use Snapchat for Web on Firefox. Simple and clean. Here's literally all the code that runs:
+Lets you use Snapchat for Web on Firefox. Simple and clean.
+
+NOTE: You must hit Ctrl + F5 to reload [Snapchat for Web](https://www.snapchat.com/web/), otherwise it won't work.
+
+Here's literally all the code that runs in your browser (from this extension):
 
 ```js
 const CHROMIUM_WIN11_UA =
@@ -48,6 +52,10 @@ Unlike [Snapchat web by LN](https://addons.mozilla.org/firefox/addon/snapchat-we
 
 4 directories, 9 files
 ```
+
+### uBlock Origin Blocklist
+
+Block minor annoyances in the Snapchat for Web UI. Text file found [here](blocklist.txt)
 
 ## Contributing
 
