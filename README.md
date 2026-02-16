@@ -53,9 +53,27 @@ Unlike [Snapchat web by LN](https://addons.mozilla.org/firefox/addon/snapchat-we
 4 directories, 9 files
 ```
 
-### uBlock Origin Blocklist
+## Blocklist
 
-Block minor annoyances in the Snapchat for Web UI. Text file found [here](blocklist.txt)
+Blocks various annoyances. Here's the source link:
+
+```text
+https://github.com/NikoboiNFTB/Snapchat-Tweaks/raw/refs/heads/main/blocklist.txt
+```
+
+### uBlock Origin add tutorial
+
+1. Select extension in the top-right.
+
+2. Click the three gears to open the settings.
+
+3. Under "Filter lists" at the top, scroll down to the bottom.
+
+4. Select "Import..."
+
+5. Paste the URL linked above.
+
+6. Hit "Apply changes" at the top.
 
 ## Contributing
 

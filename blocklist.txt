@@ -1,6 +1,24 @@
-! --- Snapchat Filters by Nikoboi --- !
+! Title: Snapchat Filters by Nikoboi
+! Description: Removes various annoyances.
+! Homepage: https://nikoboi.dev/
+! Author: Nikoboi
+! License: GNU General Public License v3.0 | https://github.com/NikoboiNFTB/Snapchat-Tweaks/blob/main/LICENSE
+! Source: https://github.com/NikoboiNFTB/Snapchat-Tweaks/raw/refs/heads/main/blocklist.txt
+! Issues: https://github.com/NikoboiNFTB/Snapchat-Tweaks/issues
+! Pull Requests: https://github.com/NikoboiNFTB/Snapchat-Tweaks/pulls
+! Last updated: 2026-02-16 11:51 UTC+02:00
+! Expires: 7 days
+
+! ========================================
+! Start of Filters
+! ========================================
+
 ! "Enable notifications"
 www.snapchat.com##.wHvEy
+
 ! Obnoxious background
 www.snapchat.com##._HpJ5
-! --- Snapchat Filters by Nikoboi --- !
+
+! ========================================
+! End of Filters
+! ========================================
