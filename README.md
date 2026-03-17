@@ -58,7 +58,7 @@ Unlike [Snapchat web by LN](https://addons.mozilla.org/firefox/addon/snapchat-we
 Blocks various annoyances. Here's the source link:
 
 ```text
-https://github.com/NikoboiNFTB/Snapchat-Tweaks/raw/refs/heads/main/blocklist.txt
+https://snapchat.nikoboi.dev/blocklist.txt
 ```
 
 ### uBlock Origin add tutorial
